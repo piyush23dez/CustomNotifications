@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.43.6 clang-800.0.38)"
+options: "b0da1782c58370dc0dbf656c65f1576d"
+build_time: [526456055, 573808000]
+inputs:
+  "/Users/sharmpi/Downloads/NotificationsWrapper-master 2/NotificationManager/ViewController.swift": [526455048, 0]
+  "/Users/sharmpi/Downloads/NotificationsWrapper-master 2/NotificationManager/AppDelegate.swift": [526451521, 0]
+  "/Users/sharmpi/Downloads/NotificationsWrapper-master 2/NotificationManager/FunkyNotificationManager.swift": [526456055, 0]

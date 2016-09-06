@@ -1,0 +1,422 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewController"
+- "Person"
+- "Car"
+provides-nominal:
+- "C19NotificationManager14ViewController"
+- "C19NotificationManager6Person"
+- "C19NotificationManager3Car"
+provides-member:
+- ["C19NotificationManager14ViewController", ""]
+- ["C19NotificationManager6Person", ""]
+- ["C19NotificationManager3Car", ""]
+provides-dynamic-lookup:
+- "viewDidLoad"
+- "didReceiveMemoryWarning"
+- "post"
+- "removeObservers"
+depends-top-level:
+- "print"
+- "FunkyNotificationManager"
+- "AnyObject"
+- "UIViewController"
+- "Car"
+- "Void"
+- "StringLiteralType"
+- "ViewController"
+- "Person"
+depends-member:
+- ["Ps9AnyObject", "Car"]
+- ["Ps9AnyObject", "FunkyNotificationManager"]
+- ["Ps9AnyObject", "Person"]
+- !private ["Ps9AnyObject", "addNotificationObserver"]
+- ["Ps9AnyObject", "car"]
+- ["Ps9AnyObject", "didReceiveMemoryWarning"]
+- ["Ps9AnyObject", "funkyNotificationInstance"]
+- ["Ps9AnyObject", "funkyNotificationInstance.storage"]
+- !private ["Ps9AnyObject", "handleNotification"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "person"]
+- ["Ps9AnyObject", "post"]
+- !private ["Ps9AnyObject", "postNotification"]
+- ["Ps9AnyObject", "print"]
+- !private ["Ps9AnyObject", "remove"]
+- !private ["Ps9AnyObject", "removeObserver"]
+- ["Ps9AnyObject", "removeObservers"]
+- ["Ps9AnyObject", "sharedInstance"]
+- ["Ps9AnyObject", "viewDidLoad"]
+- ["Ps9AnyObject", ""]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- ["Sb", "deinit"]
+- ["Ps7CVarArg", "Car"]
+- ["Ps7CVarArg", "FunkyNotificationManager"]
+- ["Ps7CVarArg", "Person"]
+- ["Ps7CVarArg", "car"]
+- ["Ps7CVarArg", "didReceiveMemoryWarning"]
+- ["Ps7CVarArg", "funkyNotificationInstance"]
+- ["Ps7CVarArg", "funkyNotificationInstance.storage"]
+- ["Ps7CVarArg", "init"]
+- ["Ps7CVarArg", "person"]
+- ["Ps7CVarArg", "post"]
+- ["Ps7CVarArg", "removeObservers"]
+- ["Ps7CVarArg", "viewDidLoad"]
+- ["Ps7CVarArg", ""]
+- ["C19NotificationManager3Car", "FunkyNotificationManager"]
+- ["C19NotificationManager3Car", "Void"]
+- ["C19NotificationManager3Car", "deinit"]
+- ["C19NotificationManager3Car", "funkyNotificationInstance"]
+- !private ["C19NotificationManager3Car", "funkyNotificationInstance.storage"]
+- ["C19NotificationManager3Car", "handleNotification"]
+- ["C19NotificationManager3Car", "init"]
+- ["C19NotificationManager3Car", "print"]
+- ["C19NotificationManager3Car", "removeObserver"]
+- ["Ps10Comparable", "init"]
+- ["Ps28CustomDebugStringConvertible", "Car"]
+- ["Ps28CustomDebugStringConvertible", "FunkyNotificationManager"]
+- ["Ps28CustomDebugStringConvertible", "Person"]
+- ["Ps28CustomDebugStringConvertible", "car"]
+- ["Ps28CustomDebugStringConvertible", "didReceiveMemoryWarning"]
+- ["Ps28CustomDebugStringConvertible", "funkyNotificationInstance"]
+- ["Ps28CustomDebugStringConvertible", "funkyNotificationInstance.storage"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "person"]
+- ["Ps28CustomDebugStringConvertible", "post"]
+- ["Ps28CustomDebugStringConvertible", "removeObservers"]
+- ["Ps28CustomDebugStringConvertible", "viewDidLoad"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps29CustomPlaygroundQuickLookable", "_getBuiltinLogicValue"]
+- ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "_getBuiltinLogicValue"]
+- ["Ps17CustomReflectable", "init"]
+- ["Ps23CustomStringConvertible", "Car"]
+- ["Ps23CustomStringConvertible", "FunkyNotificationManager"]
+- ["Ps23CustomStringConvertible", "Person"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- ["Ps23CustomStringConvertible", "car"]
+- ["Ps23CustomStringConvertible", "didReceiveMemoryWarning"]
+- ["Ps23CustomStringConvertible", "funkyNotificationInstance"]
+- ["Ps23CustomStringConvertible", "funkyNotificationInstance.storage"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "person"]
+- ["Ps23CustomStringConvertible", "post"]
+- ["Ps23CustomStringConvertible", "removeObservers"]
+- ["Ps23CustomStringConvertible", "viewDidLoad"]
+- ["Ps23CustomStringConvertible", ""]
+- ["Ps9Equatable", "Car"]
+- ["Ps9Equatable", "FunkyNotificationManager"]
+- ["Ps9Equatable", "Person"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- ["Ps9Equatable", "car"]
+- ["Ps9Equatable", "didReceiveMemoryWarning"]
+- ["Ps9Equatable", "funkyNotificationInstance"]
+- ["Ps9Equatable", "funkyNotificationInstance.storage"]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "person"]
+- ["Ps9Equatable", "post"]
+- ["Ps9Equatable", "removeObservers"]
+- ["Ps9Equatable", "viewDidLoad"]
+- ["Ps9Equatable", ""]
+- !private ["Ps27ExpressibleByBooleanLiteral", "_getBuiltinLogicValue"]
+- ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- ["Ps32ExpressibleByStringInterpolation", "init"]
+- ["Ps26ExpressibleByStringLiteral", "init"]
+- ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["C19NotificationManager24FunkyNotificationManager", "addNotificationObserver"]
+- ["C19NotificationManager24FunkyNotificationManager", "deinit"]
+- !private ["C19NotificationManager24FunkyNotificationManager", "postNotification"]
+- !private ["C19NotificationManager24FunkyNotificationManager", "remove"]
+- ["C19NotificationManager24FunkyNotificationManager", "sharedInstance"]
+- ["Ps8Hashable", "Car"]
+- ["Ps8Hashable", "FunkyNotificationManager"]
+- ["Ps8Hashable", "Person"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- ["Ps8Hashable", "car"]
+- ["Ps8Hashable", "didReceiveMemoryWarning"]
+- ["Ps8Hashable", "funkyNotificationInstance"]
+- ["Ps8Hashable", "funkyNotificationInstance.storage"]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "person"]
+- ["Ps8Hashable", "post"]
+- ["Ps8Hashable", "removeObservers"]
+- ["Ps8Hashable", "viewDidLoad"]
+- ["Ps8Hashable", ""]
+- !private ["Ps25LosslessStringConvertible", "_getBuiltinLogicValue"]
+- ["Ps25LosslessStringConvertible", "init"]
+- ["Ps10MirrorPath", "init"]
+- ["CSo7NSCoder", "deinit"]
+- ["PSo8NSCoding", "Car"]
+- ["PSo8NSCoding", "FunkyNotificationManager"]
+- ["PSo8NSCoding", "Person"]
+- ["PSo8NSCoding", "car"]
+- ["PSo8NSCoding", "didReceiveMemoryWarning"]
+- ["PSo8NSCoding", "funkyNotificationInstance"]
+- ["PSo8NSCoding", "funkyNotificationInstance.storage"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "person"]
+- ["PSo8NSCoding", "post"]
+- ["PSo8NSCoding", "removeObservers"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", ""]
+- ["PSo9NSCopying", "init"]
+- ["PSo26NSExtensionRequestHandling", "Car"]
+- ["PSo26NSExtensionRequestHandling", "FunkyNotificationManager"]
+- ["PSo26NSExtensionRequestHandling", "Person"]
+- ["PSo26NSExtensionRequestHandling", "car"]
+- ["PSo26NSExtensionRequestHandling", "didReceiveMemoryWarning"]
+- ["PSo26NSExtensionRequestHandling", "funkyNotificationInstance"]
+- ["PSo26NSExtensionRequestHandling", "funkyNotificationInstance.storage"]
+- !private ["PSo26NSExtensionRequestHandling", "init"]
+- ["PSo26NSExtensionRequestHandling", "person"]
+- ["PSo26NSExtensionRequestHandling", "post"]
+- ["PSo26NSExtensionRequestHandling", "removeObservers"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- ["PSo16NSMutableCopying", "init"]
+- ["CSo8NSObject", "AnyObject"]
+- ["CSo8NSObject", "Car"]
+- ["CSo8NSObject", "FunkyNotificationManager"]
+- ["CSo8NSObject", "Person"]
+- ["CSo8NSObject", "car"]
+- ["CSo8NSObject", "didReceiveMemoryWarning"]
+- ["CSo8NSObject", "funkyNotificationInstance"]
+- ["CSo8NSObject", "funkyNotificationInstance.storage"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "person"]
+- ["CSo8NSObject", "post"]
+- ["CSo8NSObject", "removeObservers"]
+- ["CSo8NSObject", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", "Car"]
+- ["PSo16NSObjectProtocol", "FunkyNotificationManager"]
+- ["PSo16NSObjectProtocol", "Person"]
+- ["PSo16NSObjectProtocol", "car"]
+- ["PSo16NSObjectProtocol", "didReceiveMemoryWarning"]
+- ["PSo16NSObjectProtocol", "funkyNotificationInstance"]
+- ["PSo16NSObjectProtocol", "funkyNotificationInstance.storage"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "person"]
+- ["PSo16NSObjectProtocol", "post"]
+- ["PSo16NSObjectProtocol", "removeObservers"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", ""]
+- ["PSo14NSSecureCoding", "init"]
+- ["CSo8NSString", "init"]
+- ["Sq", "deinit"]
+- ["C19NotificationManager6Person", "FunkyNotificationManager"]
+- ["C19NotificationManager6Person", "Void"]
+- ["C19NotificationManager6Person", "deinit"]
+- ["C19NotificationManager6Person", "funkyNotificationInstance"]
+- !private ["C19NotificationManager6Person", "funkyNotificationInstance.storage"]
+- ["C19NotificationManager6Person", "handleNotification"]
+- ["C19NotificationManager6Person", "init"]
+- ["C19NotificationManager6Person", "print"]
+- ["C19NotificationManager6Person", "removeObserver"]
+- ["Ps10Streamable", "init"]
+- ["SS", "deinit"]
+- ["SS", "init"]
+- ["Ps16TextOutputStream", "init"]
+- ["PSo21UIAppearanceContainer", "Car"]
+- ["PSo21UIAppearanceContainer", "FunkyNotificationManager"]
+- ["PSo21UIAppearanceContainer", "Person"]
+- ["PSo21UIAppearanceContainer", "car"]
+- ["PSo21UIAppearanceContainer", "didReceiveMemoryWarning"]
+- ["PSo21UIAppearanceContainer", "funkyNotificationInstance"]
+- ["PSo21UIAppearanceContainer", "funkyNotificationInstance.storage"]
+- !private ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "person"]
+- ["PSo21UIAppearanceContainer", "post"]
+- ["PSo21UIAppearanceContainer", "removeObservers"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- ["PSo18UIContentContainer", "Car"]
+- ["PSo18UIContentContainer", "FunkyNotificationManager"]
+- ["PSo18UIContentContainer", "Person"]
+- ["PSo18UIContentContainer", "car"]
+- ["PSo18UIContentContainer", "didReceiveMemoryWarning"]
+- ["PSo18UIContentContainer", "funkyNotificationInstance"]
+- ["PSo18UIContentContainer", "funkyNotificationInstance.storage"]
+- !private ["PSo18UIContentContainer", "init"]
+- ["PSo18UIContentContainer", "person"]
+- ["PSo18UIContentContainer", "post"]
+- ["PSo18UIContentContainer", "removeObservers"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- ["PSo18UIFocusEnvironment", "Car"]
+- ["PSo18UIFocusEnvironment", "FunkyNotificationManager"]
+- ["PSo18UIFocusEnvironment", "Person"]
+- ["PSo18UIFocusEnvironment", "car"]
+- ["PSo18UIFocusEnvironment", "didReceiveMemoryWarning"]
+- ["PSo18UIFocusEnvironment", "funkyNotificationInstance"]
+- ["PSo18UIFocusEnvironment", "funkyNotificationInstance.storage"]
+- !private ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "person"]
+- ["PSo18UIFocusEnvironment", "post"]
+- ["PSo18UIFocusEnvironment", "removeObservers"]
+- ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- ["CSo11UIResponder", "AnyObject"]
+- ["CSo11UIResponder", "Car"]
+- ["CSo11UIResponder", "FunkyNotificationManager"]
+- ["CSo11UIResponder", "Person"]
+- ["CSo11UIResponder", "car"]
+- ["CSo11UIResponder", "didReceiveMemoryWarning"]
+- ["CSo11UIResponder", "funkyNotificationInstance"]
+- ["CSo11UIResponder", "funkyNotificationInstance.storage"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "person"]
+- ["CSo11UIResponder", "post"]
+- ["CSo11UIResponder", "removeObservers"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- ["PSo30UIResponderStandardEditActions", "Car"]
+- ["PSo30UIResponderStandardEditActions", "FunkyNotificationManager"]
+- ["PSo30UIResponderStandardEditActions", "Person"]
+- ["PSo30UIResponderStandardEditActions", "car"]
+- ["PSo30UIResponderStandardEditActions", "didReceiveMemoryWarning"]
+- ["PSo30UIResponderStandardEditActions", "funkyNotificationInstance"]
+- ["PSo30UIResponderStandardEditActions", "funkyNotificationInstance.storage"]
+- !private ["PSo30UIResponderStandardEditActions", "init"]
+- ["PSo30UIResponderStandardEditActions", "person"]
+- ["PSo30UIResponderStandardEditActions", "post"]
+- ["PSo30UIResponderStandardEditActions", "removeObservers"]
+- ["PSo30UIResponderStandardEditActions", "viewDidLoad"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- ["PSo16UIStateRestoring", "Car"]
+- ["PSo16UIStateRestoring", "FunkyNotificationManager"]
+- ["PSo16UIStateRestoring", "Person"]
+- ["PSo16UIStateRestoring", "car"]
+- ["PSo16UIStateRestoring", "didReceiveMemoryWarning"]
+- ["PSo16UIStateRestoring", "funkyNotificationInstance"]
+- ["PSo16UIStateRestoring", "funkyNotificationInstance.storage"]
+- !private ["PSo16UIStateRestoring", "init"]
+- ["PSo16UIStateRestoring", "person"]
+- ["PSo16UIStateRestoring", "post"]
+- ["PSo16UIStateRestoring", "removeObservers"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- ["PSo18UITraitEnvironment", "Car"]
+- ["PSo18UITraitEnvironment", "FunkyNotificationManager"]
+- ["PSo18UITraitEnvironment", "Person"]
+- ["PSo18UITraitEnvironment", "car"]
+- ["PSo18UITraitEnvironment", "didReceiveMemoryWarning"]
+- ["PSo18UITraitEnvironment", "funkyNotificationInstance"]
+- ["PSo18UITraitEnvironment", "funkyNotificationInstance.storage"]
+- !private ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "person"]
+- ["PSo18UITraitEnvironment", "post"]
+- ["PSo18UITraitEnvironment", "removeObservers"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- ["CSo16UIViewController", "AnyObject"]
+- ["CSo16UIViewController", "Car"]
+- ["CSo16UIViewController", "FunkyNotificationManager"]
+- ["CSo16UIViewController", "Person"]
+- ["CSo16UIViewController", "car"]
+- ["CSo16UIViewController", "deinit"]
+- ["CSo16UIViewController", "didReceiveMemoryWarning"]
+- ["CSo16UIViewController", "funkyNotificationInstance"]
+- ["CSo16UIViewController", "funkyNotificationInstance.storage"]
+- ["CSo16UIViewController", "init"]
+- ["CSo16UIViewController", "person"]
+- ["CSo16UIViewController", "post"]
+- ["CSo16UIViewController", "removeObservers"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- ["CSo16UIViewController", ""]
+- ["C19NotificationManager14ViewController", "AnyObject"]
+- ["C19NotificationManager14ViewController", "Car"]
+- ["C19NotificationManager14ViewController", "FunkyNotificationManager"]
+- ["C19NotificationManager14ViewController", "Person"]
+- ["C19NotificationManager14ViewController", "car"]
+- ["C19NotificationManager14ViewController", "deinit"]
+- ["C19NotificationManager14ViewController", "didReceiveMemoryWarning"]
+- ["C19NotificationManager14ViewController", "funkyNotificationInstance"]
+- !private ["C19NotificationManager14ViewController", "funkyNotificationInstance.storage"]
+- ["C19NotificationManager14ViewController", "init"]
+- ["C19NotificationManager14ViewController", "person"]
+- ["C19NotificationManager14ViewController", "post"]
+- ["C19NotificationManager14ViewController", "removeObservers"]
+- ["C19NotificationManager14ViewController", "viewDidLoad"]
+- !private ["Ps35_ExpressibleByBuiltinBooleanLiteral", "_getBuiltinLogicValue"]
+- ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- ["Ps9_Hashable", "Car"]
+- ["Ps9_Hashable", "FunkyNotificationManager"]
+- ["Ps9_Hashable", "Person"]
+- !private ["Ps9_Hashable", "_getBuiltinLogicValue"]
+- ["Ps9_Hashable", "car"]
+- ["Ps9_Hashable", "didReceiveMemoryWarning"]
+- ["Ps9_Hashable", "funkyNotificationInstance"]
+- ["Ps9_Hashable", "funkyNotificationInstance.storage"]
+- ["Ps9_Hashable", "init"]
+- ["Ps9_Hashable", "person"]
+- ["Ps9_Hashable", "post"]
+- ["Ps9_Hashable", "removeObservers"]
+- ["Ps9_Hashable", "viewDidLoad"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- ["Ps21_ObjectiveCBridgeable", "init"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Sb"
+- "Ps7CVarArg"
+- "C19NotificationManager3Car"
+- "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- "Ps29CustomPlaygroundQuickLookable"
+- "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- "Ps32ExpressibleByStringInterpolation"
+- "Ps26ExpressibleByStringLiteral"
+- "Ps33ExpressibleByUnicodeScalarLiteral"
+- "C19NotificationManager24FunkyNotificationManager"
+- "Ps8Hashable"
+- "Ps25LosslessStringConvertible"
+- "Ps10MirrorPath"
+- "CSo7NSCoder"
+- "PSo8NSCoding"
+- "PSo9NSCopying"
+- "PSo26NSExtensionRequestHandling"
+- "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "PSo14NSSecureCoding"
+- "CSo8NSString"
+- "Sq"
+- "C19NotificationManager6Person"
+- "Ps10Streamable"
+- "SS"
+- "Ps16TextOutputStream"
+- "PSo21UIAppearanceContainer"
+- "PSo18UIContentContainer"
+- "PSo18UIFocusEnvironment"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- "PSo16UIStateRestoring"
+- "PSo18UITraitEnvironment"
+- "CSo16UIViewController"
+- "C19NotificationManager14ViewController"
+- !private "Ps35_ExpressibleByBuiltinBooleanLiteral"
+- "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- "Ps34_ExpressibleByBuiltinStringLiteral"
+- "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/sharmpi/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/sharmpi/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/sharmpi/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Users/sharmpi/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Users/sharmpi/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Users/sharmpi/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Users/sharmpi/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Users/sharmpi/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Users/sharmpi/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+interface-hash: "e3c47319c2e088f79e55cf2f4106c9d0"

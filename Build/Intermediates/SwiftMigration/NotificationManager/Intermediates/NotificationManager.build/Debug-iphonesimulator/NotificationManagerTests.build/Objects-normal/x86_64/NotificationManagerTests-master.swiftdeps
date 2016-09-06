@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.43.6 clang-800.0.38)"
+options: "d140c70d33d77ac9da2736a8b7a42c15"
+build_time: [526451515, 368961000]
+inputs:
+  "/Users/sharmpi/Downloads/NotificationsWrapper-master 2/NotificationManagerTests/NotificationManagerTests.swift": [526154482, 0]

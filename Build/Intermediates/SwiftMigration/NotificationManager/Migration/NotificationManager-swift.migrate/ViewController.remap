@@ -1,0 +1,29 @@
+[
+ {
+  "file": "/Users/sharmpi/Downloads/NotificationsWrapper-master 2/NotificationManager/ViewController.swift",
+  "offset": 592,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/sharmpi/Downloads/NotificationsWrapper-master 2/NotificationManager/ViewController.swift",
+  "offset": 1382,
+  "remove": 3,
+  "text": "(N",
+ },
+ {
+  "file": "/Users/sharmpi/Downloads/NotificationsWrapper-master 2/NotificationManager/ViewController.swift",
+  "offset": 1396,
+  "text": ")",
+ },
+ {
+  "file": "/Users/sharmpi/Downloads/NotificationsWrapper-master 2/NotificationManager/ViewController.swift",
+  "offset": 2100,
+  "remove": 3,
+  "text": "(N",
+ },
+ {
+  "file": "/Users/sharmpi/Downloads/NotificationsWrapper-master 2/NotificationManager/ViewController.swift",
+  "offset": 2114,
+  "text": ")",
+ }
+]

@@ -1,0 +1,114 @@
+[
+ {
+  "file": "/Users/sharmpi/Downloads/NotificationsWrapper-master 2/NotificationManager/FunkyNotificationManager.swift",
+  "offset": 231,
+  "text": "file",
+ },
+ {
+  "file": "/Users/sharmpi/Downloads/NotificationsWrapper-master 2/NotificationManager/FunkyNotificationManager.swift",
+  "offset": 297,
+  "text": "file",
+ },
+ {
+  "file": "/Users/sharmpi/Downloads/NotificationsWrapper-master 2/NotificationManager/FunkyNotificationManager.swift",
+  "offset": 336,
+  "remove": 2,
+ },
+ {
+  "file": "/Users/sharmpi/Downloads/NotificationsWrapper-master 2/NotificationManager/FunkyNotificationManager.swift",
+  "offset": 363,
+  "remove": 8,
+ },
+ {
+  "file": "/Users/sharmpi/Downloads/NotificationsWrapper-master 2/NotificationManager/FunkyNotificationManager.swift",
+  "offset": 376,
+  "text": "file",
+ },
+ {
+  "file": "/Users/sharmpi/Downloads/NotificationsWrapper-master 2/NotificationManager/FunkyNotificationManager.swift",
+  "offset": 438,
+  "remove": 2,
+ },
+ {
+  "file": "/Users/sharmpi/Downloads/NotificationsWrapper-master 2/NotificationManager/FunkyNotificationManager.swift",
+  "offset": 459,
+  "remove": 7,
+ },
+ {
+  "file": "/Users/sharmpi/Downloads/NotificationsWrapper-master 2/NotificationManager/FunkyNotificationManager.swift",
+  "offset": 778,
+  "text": "file",
+ },
+ {
+  "file": "/Users/sharmpi/Downloads/NotificationsWrapper-master 2/NotificationManager/FunkyNotificationManager.swift",
+  "offset": 838,
+  "remove": 5,
+ },
+ {
+  "file": "/Users/sharmpi/Downloads/NotificationsWrapper-master 2/NotificationManager/FunkyNotificationManager.swift",
+  "offset": 881,
+  "text": "@escaping ",
+ },
+ {
+  "file": "/Users/sharmpi/Downloads/NotificationsWrapper-master 2/NotificationManager/FunkyNotificationManager.swift",
+  "offset": 883,
+  "remove": 2,
+ },
+ {
+  "file": "/Users/sharmpi/Downloads/NotificationsWrapper-master 2/NotificationManager/FunkyNotificationManager.swift",
+  "offset": 982,
+  "remove": 1,
+  "text": "(f",
+ },
+ {
+  "file": "/Users/sharmpi/Downloads/NotificationsWrapper-master 2/NotificationManager/FunkyNotificationManager.swift",
+  "offset": 989,
+  "remove": 1,
+  "text": ": NSNotification.Name(rawValue: ",
+ },
+ {
+  "file": "/Users/sharmpi/Downloads/NotificationsWrapper-master 2/NotificationManager/FunkyNotificationManager.swift",
+  "offset": 995,
+  "text": ")",
+ },
+ {
+  "file": "/Users/sharmpi/Downloads/NotificationsWrapper-master 2/NotificationManager/FunkyNotificationManager.swift",
+  "offset": 1032,
+  "remove": 5,
+ },
+ {
+  "file": "/Users/sharmpi/Downloads/NotificationsWrapper-master 2/NotificationManager/FunkyNotificationManager.swift",
+  "offset": 1141,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/sharmpi/Downloads/NotificationsWrapper-master 2/NotificationManager/FunkyNotificationManager.swift",
+  "offset": 1209,
+  "text": "(name: ",
+ },
+ {
+  "file": "/Users/sharmpi/Downloads/NotificationsWrapper-master 2/NotificationManager/FunkyNotificationManager.swift",
+  "offset": 1221,
+  "text": ".",
+ },
+ {
+  "file": "/Users/sharmpi/Downloads/NotificationsWrapper-master 2/NotificationManager/FunkyNotificationManager.swift",
+  "offset": 1226,
+  "text": "rawValue: ",
+ },
+ {
+  "file": "/Users/sharmpi/Downloads/NotificationsWrapper-master 2/NotificationManager/FunkyNotificationManager.swift",
+  "offset": 1231,
+  "text": ")",
+ },
+ {
+  "file": "/Users/sharmpi/Downloads/NotificationsWrapper-master 2/NotificationManager/FunkyNotificationManager.swift",
+  "offset": 1276,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/sharmpi/Downloads/NotificationsWrapper-master 2/NotificationManager/FunkyNotificationManager.swift",
+  "offset": 1398,
+  "text": ".map { NSNotification.Name(rawValue: $0) }",
+ }
+]
