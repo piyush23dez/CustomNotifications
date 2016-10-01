@@ -51,18 +51,17 @@ class FunkyNotificationManager {
     func addNotificationObserver(name: String?, observer: AnyObject?, block:  (() -> Void)) {
         
         //Create a new observer entry
-        let currentObserverDict: [String : DataType] = ["observer" : DataType.AsAnyObject(value: observer!),"block" : DataType.AsClosure(value: block)]
+        let newObserverDict: [String : DataType] = ["observer" : DataType.AsAnyObject(value: observer!),"block" : DataType.AsClosure(value: block)]
         
         if let _  = allObserverDict[name!] {
             
             var currentObserversArray: [[String : DataType]] = allObserverDict[name!]!
-            currentObserversArray.append(currentObserverDict)
+            currentObserversArray.append(newObserverDict)
             allObserverDict.updateValue(currentObserversArray, forKey: name!)
         }
         else {
-            allObserverDict.updateValue([currentObserverDict], forKey: name!)
+            allObserverDict.updateValue([newObserverDict], forKey: name!)
         }
-        print(allObserverDict.keys.count)
     }
 
     
